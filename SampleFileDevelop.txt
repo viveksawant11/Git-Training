@@ -1,4 +1,0 @@
-This is Sample File 1
-
-Git revert commit 1
-
