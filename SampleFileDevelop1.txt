@@ -2,3 +2,4 @@ This is Sample File 1
 Git revert commit 1
 This is comparison testing 1
 
+Stash, change in file1

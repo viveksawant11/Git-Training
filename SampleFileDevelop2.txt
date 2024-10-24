@@ -3,3 +3,5 @@ This is Sample File 2
 =======
 This is comparison testing 2
 >>>>>>> main
+Stash, change in file1
+Stash, change in file2
