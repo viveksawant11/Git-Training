@@ -1,2 +1,5 @@
 This is Sample File 2
+<<<<<<< HEAD
+=======
 This is comparison testing 2
+>>>>>>> main
